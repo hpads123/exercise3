@@ -1,0 +1,38 @@
+html{
+    background: #80d4ff;
+}
+ .header
+ {
+background-color: #1a8cff;
+ }
+h1 {
+text-align: center;
+}
+.greekandroman
+{
+    background-color: #ff8080;
+    padding: 20px;
+}
+
+.watchtv
+{
+    padding: 20px;
+    background-color: #6699ff
+}
+.sleep
+{
+    background-color: lightskyblue;
+    padding: 20px;
+}
+
+.moba
+{
+    padding: 20px;
+    background-color: gray;
+}
+
+img
+{
+    float: right;
+    margin: 5px;
+}

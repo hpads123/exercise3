@@ -1,0 +1,47 @@
+html{
+   background: linear-gradient(to bottom right, #66ffff -24%, #3399ff 100%);
+margin-left: auto;
+}
+
+h1{
+   text-align: center;
+}
+
+.teleperformance
+ {
+   background: linear-gradient(to left, #ff66ff 10%, #9900ff 100%);
+   padding-bottom: 0.5px;
+ }
+ 
+ .sykes
+ {
+   background: linear-gradient(to bottom right, #000000 9%, #0099ff 100%);
+    padding-bottom: 0.1px;
+    color: white;
+
+ }
+
+ .concentrix
+ {
+   background: linear-gradient(to bottom right, #99ccff 48%, #ffffff 100%);
+ }
+
+ .telus
+ {
+   background: linear-gradient(to bottom right, #6600cc 11%, #00cc99 100%);
+ }
+
+ div {
+    float:left;
+ }
+
+ mark {
+    color:black;
+    background-color: #099999;
+    margin: 10px;
+    padding: 10px;
+ }
+
+ img {
+   border: 3px solid black;
+ }

@@ -1,0 +1,30 @@
+html{
+    background: linear-gradient(to bottom right, #ff9999 -7%, #ccffcc 100%);
+    margin-left: 0px;
+}
+mark {
+    background-color:#d9b3ff;
+    padding: 15px;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+  .fa {
+    padding: 10px;
+    font-size: 100px;
+    width: 35px;
+    text-decoration: none;
+  }
+  
+  p{
+    font-size: 30px;
+    color: black;
+  }
+  
+  .fa-mobile
+  {
+    color:black;
+    icon: large;
+  }
